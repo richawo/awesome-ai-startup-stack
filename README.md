@@ -1,6 +1,6 @@
 # Awesome AI Startup Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated, opinionated collection of the best AI tools, services, and resources to help founders build, launch, and scale modern AI startups.
+> A curated, opinionated collection of the best AI tools, services, playbooks, and resources for founders building, launching, and scaling modern AI startups.
 
 The fastest way to find proven tools across every stage of building an AI startup — from your first commit to your Series B. No paid placements. No SEO spam. Just resources we'd actually recommend to a friend who's building.
 
@@ -12,22 +12,49 @@ There are thousands of AI tools out there, and most of them are noise. This list
 
 Every tool here has either been used by the maintainers, or is widely trusted in the founder community. We update the list regularly and prune anything that stops being useful. If you find something missing or broken, [open an issue or PR](CONTRIBUTING.md).
 
+---
+
 ## Contents
 
-- 🛠️ [**Building**](building.md) — AI dev tools, infrastructure, frameworks, agents, vector DBs, and your dev stack
-- 🎨 [**Designing**](designing.md) — Design tools, branding, UI libraries, illustrations, and creative assets
-- 📣 [**Marketing**](marketing.md) — Advertising, SEO, content, email, social, influencer, and analytics
-- 💸 [**Growth & Sales**](growth-and-sales.md) — CRMs, outreach, lead gen, prospecting, and revenue tools
-- ⚡ [**Productivity**](productivity.md) — Dictation, automation, AI assistants, note-taking, and time-savers
-- 🎬 [**Content Creation**](content-creation.md) — Video, audio, podcasts, writing, music, and asset generation
-- 💰 [**Fundraising**](fundraising.md) — Investor lists, pitch decks, cap tables, data rooms, and legal
-- 🏢 [**Operations**](operations.md) — Hiring, legal, accounting, HR, finance, and back-office
+### Tools, by category
+
+- 🛠️ [**Building**](building.md) — AI coding assistants, LLM APIs, agents, vector DBs, RAG, inference, fine-tuning, evals, voice, vision, backend, databases, auth, payments, frontend, mobile, desktop, hosting, boilerplates
+- 🎨 [**Designing**](designing.md) — Design tools, UI libraries, design systems, prototyping, AI generators, branding, icons, illustrations, fonts, color, mockups, inspiration, animation, 3D
+- 📣 [**Marketing**](marketing.md) — Advertising, SEO, content, email, newsletters, social, LinkedIn, X tools, influencer, landing pages, analytics, attribution, PR, community, ASO, A/B testing
+- 💸 [**Growth & Sales**](growth-and-sales.md) — CRMs, cold outreach, lead gen, sales engagement, sales intelligence, demos, contracts, billing, onboarding, support, CRO, SMS / push
+- ⚡ [**Productivity**](productivity.md) — Dictation, AI assistants, notes, knowledge mgmt, tasks, calendar, email, meeting transcription, automation, focus, reading, clipboard, storage, passwords, launchers
+- 🎬 [**Content Creation**](content-creation.md) — Video editing, AI video, screen recording, podcasts, audio, AI voice, music, writing, AI image, photo editing, thumbnails, captions, repurposing, stock
+- 💰 [**Fundraising**](fundraising.md) — Investor databases, pitch deck tools, cap tables, data rooms, financial modeling, SAFE / term sheets, accelerators, angel networks, grants, crowdfunding
+- 🏢 [**Operations**](operations.md) — Incorporation, banking, accounting, tax, payroll, hiring, ATS, HR, global hiring, benefits, legal, contracts, privacy / compliance, insurance, wikis, expenses
+
+### Deep-dive resources
+
+The reference content founders actually need, organized into focused guides:
+
+- 📚 [**500 Marketing Video Hooks**](resources/marketing-video-hooks.md) — The Hook Library. Every viral short-form video template, with examples.
+- 📍 [**60+ Subreddits to Launch In**](resources/startup-subreddits.md) — Curated by category, with rules, post formats, and what works where.
+- ✉️ [**Cold Email Templates That Work**](resources/cold-email-templates.md) — Real templates for sales, investors, press, partnerships, hiring, customer interviews, and more.
+- 🚀 [**The Launch Day Playbook**](resources/launch-day-playbook.md) — Hour-by-hour for Product Hunt, Hacker News, Reddit, Twitter, and post-launch.
+- 📊 [**SaaS Metrics Cheatsheet**](resources/saas-metrics-cheatsheet.md) — Every metric, formula, and benchmark — from MRR to magic number.
+- 📑 [**Pitch Deck Examples & Templates**](resources/pitch-deck-examples.md) — The Sequoia and YC frameworks, real decks from Airbnb, Buffer, Front, Linkedin, and more.
+- 📖 [**Founder Reading List**](resources/founder-reading-list.md) — The books, essays, podcasts, newsletters, and X follows that have shaped the best operators.
+
+---
 
 ## Editor's picks
 
-A small set of tools we keep coming back to — the ones we'd hate to build a startup without. Full lists live inside each category file.
+A small set of tools we keep coming back to — the ones we'd hate to build a startup without.
 
-> _Coming soon — we'll feature 10–15 tools across building, marketing, productivity, and more._
+- **Building:** [Cursor](https://cursor.com), [Claude Code](https://www.anthropic.com/claude-code), [Vercel](https://vercel.com), [Supabase](https://supabase.com), [Stripe](https://stripe.com)
+- **Designing:** [Figma](https://figma.com), [shadcn/ui](https://ui.shadcn.com), [Lucide](https://lucide.dev), [Mobbin](https://mobbin.com)
+- **Marketing:** [Beehiiv](https://www.beehiiv.com), [Plausible](https://plausible.io), [Ahrefs](https://ahrefs.com), [Typefully](https://typefully.com)
+- **Growth & sales:** [Attio](https://attio.com), [Apollo](https://apollo.io), [Clay](https://clay.com), [Granola](https://granola.ai)
+- **Productivity:** [Yaps](https://yaps.ai), [Linear](https://linear.app), [Raycast](https://raycast.com), [Notion](https://notion.so), [Cal.com](https://cal.com)
+- **Content creation:** [Descript](https://www.descript.com), [Screen Studio](https://www.screen.studio), [ElevenLabs](https://elevenlabs.io), [OpusClip](https://www.opus.pro)
+- **Fundraising:** [Stripe Atlas](https://stripe.com/atlas), [Carta](https://carta.com), [Mercury](https://mercury.com), [DocSend](https://www.docsend.com)
+- **Operations:** [Rippling](https://www.rippling.com), [Vanta](https://www.vanta.com), [Ramp](https://ramp.com), [Pilot](https://pilot.com)
+
+---
 
 ## Who maintains this
 
