@@ -39,6 +39,7 @@
 ## UI Component Libraries
 
 - [shadcn/ui](https://ui.shadcn.com) — Copy-paste components on Tailwind + Radix. Current default.
+- [21st.dev](https://21st.dev) — Community-driven registry of shadcn-compatible components and AI-agent UI templates.
 - [Magic UI](https://magicui.design) — Animated shadcn-compatible components.
 - [Aceternity UI](https://ui.aceternity.com) — Flashy interactive components.
 - [Tremor](https://www.tremor.so) — Dashboard components for React.
@@ -87,6 +88,7 @@
 
 ## AI Design Generators
 
+- [Claude Design](https://claude.ai/design/) — Anthropic Labs' visual prototyping tool. Extracts a design system from your codebase, then generates designs, prototypes, slides, and one-pagers as real HTML/CSS/JS.
 - [v0 (Vercel)](https://v0.dev) — AI UI generator.
 - [Bolt.new](https://bolt.new) — AI full-stack app builder.
 - [Lovable](https://lovable.dev) — AI app builder with good design defaults.

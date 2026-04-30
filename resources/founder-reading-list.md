@@ -14,6 +14,7 @@
 - [Books — On leadership and people](#books--on-leadership-and-people)
 - [Books — On thinking clearly](#books--on-thinking-clearly)
 - [Essays you should read this weekend](#essays-you-should-read-this-weekend)
+- [Courses for AI builders](#courses-for-ai-builders)
 - [Newsletters worth a paid sub](#newsletters-worth-a-paid-sub)
 - [Newsletters worth a free sub](#newsletters-worth-a-free-sub)
 - [Podcasts](#podcasts)
@@ -101,6 +102,20 @@ These are short, foundational, and shape how the best founders think.
 - **[The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)** — Paul Graham
 - **[Why You Should Write](https://www.julian.com/blog/writing-tips)** — Julian Shapiro
 - **[Distribution > Product](https://twitter.com/jasonlk)** — Jason Lemkin (compiled threads on SaaStr)
+
+## Courses for AI builders
+
+Hands-on courses worth the time. Skip the rest — most "AI courses" are recycled blog posts.
+
+- **[28 Days of Lovable](https://february.lovable.app/)** — Free 28-day video course on building full-stack apps with Lovable's AI builder. Covers prompting, design, and shipping real apps. The single best on-ramp to AI app building if you've never used Lovable, Bolt, or v0.
+- **[DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/)** — Andrew Ng's free short courses on prompt engineering, RAG, agents, evals, and more. Each one is 1–2 hours, all worth doing.
+- **[Latent Space University](https://www.latent.space/)** — swyx's AI engineering curriculum (free + paid).
+- **[Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/courses)** — Free, hands-on, tightly written. The fastest way to actually understand prompts.
+- **[Hugging Face Courses](https://huggingface.co/learn)** — Free courses on NLP, deep learning, audio, and reinforcement learning.
+- **[Fast.ai](https://www.fast.ai/)** — Jeremy Howard's free deep learning course. Code-first, world-class.
+- **[Build Your Own X (GitHub)](https://github.com/codecrafters-io/build-your-own-x)** — Not a course but a master list of "build your own DB / OS / language" tutorials. Foundational.
+- **[Y Combinator Startup School](https://www.startupschool.org/)** — Free course on starting a startup. Still the most concentrated YC content available.
+- **[Stanford CS25](https://web.stanford.edu/class/cs25/)** — Free Stanford course on transformers (videos on YouTube).
 
 ## Newsletters worth a paid sub
 

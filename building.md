@@ -46,6 +46,7 @@
 - [Bolt.new](https://bolt.new) — Browser-based AI app builder.
 - [Lovable](https://lovable.dev) — Browser-based full-stack AI builder.
 - [v0](https://v0.dev) — Vercel's AI UI generator.
+- [Claude Design](https://claude.ai/design/) — Anthropic Labs' visual prototyping tool that ships real HTML/CSS/JS, built on top of a design system extracted from your codebase.
 - [Roo Code](https://roocode.com) — Open-source autonomous coder.
 
 ## LLM APIs & Foundation Models
@@ -284,6 +285,7 @@
 ## UI Component Libraries
 
 - [shadcn/ui](https://ui.shadcn.com) — Copy-paste components on Tailwind + Radix. The current default.
+- [21st.dev](https://21st.dev) — Community-driven registry of shadcn-compatible components and AI-agent UI templates.
 - [Tailwind CSS](https://tailwindcss.com) — Utility-first CSS framework.
 - [Radix UI](https://www.radix-ui.com) — Accessible unstyled primitives.
 - [Headless UI](https://headlessui.com) — Tailwind Labs' unstyled primitives.
