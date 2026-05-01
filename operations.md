@@ -1,6 +1,6 @@
 # Operations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> The boring-but-critical back-office tools that keep a startup running so founders can focus on building.
+> Back-office tools for running a startup: incorporation, banking, accounting, payroll, hiring, legal, compliance, and HR.
 
 [← Back to main list](README.md)
 
@@ -55,7 +55,7 @@
 ## Accounting & Bookkeeping
 
 - [QuickBooks Online](https://quickbooks.intuit.com) — The SMB default.
-- [Xero](https://www.xero.com) — QuickBooks alternative, popular outside the US.
+- [Xero](https://www.xero.com) — Accounting software (alternative to QuickBooks).
 - [Pilot](https://pilot.com) — Outsourced bookkeeping for startups.
 - [Bench](https://bench.co) — Outsourced bookkeeping.
 - [Puzzle](https://www.puzzle.io) — Modern bookkeeping software.
@@ -78,7 +78,7 @@
 
 ## Equity & Cap Tables
 
-- [Carta](https://carta.com) — The category standard.
+- [Carta](https://carta.com) — Cap table and equity management.
 - [Pulley](https://pulley.com) — Modern Carta alternative.
 - [AngelList Stack](https://www.angellist.com/stack) — Free for early-stage.
 - [LTSE Equity](https://equity.ltse.com) — Cap table + 409A.
@@ -115,7 +115,7 @@
 
 ## Applicant Tracking Systems
 
-- [Ashby](https://www.ashbyhq.com) — Current startup favorite.
+- [Ashby](https://www.ashbyhq.com) — ATS and recruiting platform.
 - [Greenhouse](https://www.greenhouse.io) — The mid-market default.
 - [Lever](https://www.lever.co) — Modern ATS + sourcing.
 - [Workable](https://www.workable.com) — SMB-friendly.

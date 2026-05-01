@@ -1,8 +1,8 @@
 # Fundraising [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Resources to raise capital efficiently — from pre-seed angels to growth-stage VCs.
+> Resources for fundraising: investor databases, pitch deck tools, cap tables, data rooms, financial modeling, legal templates, accelerators, angel networks, grants, and crowdfunding.
 
-[← Back to main list](README.md) · See also: [Pitch deck examples](resources/pitch-deck-examples.md) · [SaaS metrics cheatsheet](resources/saas-metrics-cheatsheet.md) · [Cold email templates](resources/cold-email-templates.md)
+[← Back to main list](README.md) · See also: [Pitch deck examples](resources/pitch-deck-examples.md) · [SaaS metrics reference](resources/saas-metrics-cheatsheet.md)
 
 ## Contents
 
@@ -58,11 +58,11 @@
 - [Slidebean's deck library](https://slidebean.com/templates) — Real decks reformatted.
 - [The Pitch Deck Coach](https://www.thepitchdeckcoach.com) — Dedicated to pitch decks.
 - [DocSend Investor Updates](https://www.docsend.com) — Templates + analytics.
-- See [pitch-deck-examples.md](resources/pitch-deck-examples.md) for famous decks and frameworks.
+- See [pitch-deck-examples.md](resources/pitch-deck-examples.md) for example decks and frameworks.
 
 ## Cap Table & Equity
 
-- [Carta](https://carta.com) — The category standard.
+- [Carta](https://carta.com) — Cap table and equity management.
 - [Pulley](https://pulley.com) — Modern, founder-friendly Carta alternative.
 - [AngelList Stack](https://www.angellist.com/stack) — Free incorporation + cap table.
 - [LTSE Equity (Capshare)](https://equity.ltse.com) — Cap table + equity management.
@@ -209,5 +209,5 @@ See [resources/founder-reading-list.md](resources/founder-reading-list.md) for t
 - The Mom Test — Rob Fitzpatrick (for customer interviews / fundraising convos)
 - Founders at Work — Jessica Livingston
 - High Output Management — Andy Grove
-- Venture Deals — Brad Feld + Jason Mendelson (must-read for fundraising)
+- Venture Deals — Brad Feld and Jason Mendelson. On VC fundraising terms.
 - Secrets of Sand Hill Road — Scott Kupor (Andreessen Horowitz)

@@ -1,8 +1,8 @@
 # Growth & Sales [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools to find customers, close deals, and grow revenue.
+> Tools for CRM, cold outreach, lead generation, sales engagement, demos, contracts, billing, onboarding, support, and CRO.
 
-[← Back to main list](README.md) · See also: [Cold email templates](resources/cold-email-templates.md) · [SaaS metrics cheatsheet](resources/saas-metrics-cheatsheet.md)
+[← Back to main list](README.md) · See also: [SaaS metrics reference](resources/saas-metrics-cheatsheet.md)
 
 ## Contents
 
@@ -27,9 +27,9 @@
 
 ## CRMs
 
-- [Attio](https://attio.com) — Modern, data-rich CRM. The current early-stage favorite.
-- [HubSpot](https://www.hubspot.com) — All-in-one CRM, generous free tier.
-- [Salesforce](https://www.salesforce.com) — The enterprise default.
+- [Attio](https://attio.com) — Data-rich CRM.
+- [HubSpot](https://www.hubspot.com) — All-in-one CRM with a free tier.
+- [Salesforce](https://www.salesforce.com) — Enterprise CRM.
 - [Pipedrive](https://www.pipedrive.com) — Sales-led, simple pipeline-first CRM.
 - [Close](https://close.com) — Built for SDR / inside-sales teams.
 - [Folk](https://www.folk.app) — Lightweight CRM for solopreneurs.
@@ -73,8 +73,8 @@
 
 ## Sales Engagement
 
-- [Outreach](https://www.outreach.io) — The category standard.
-- [Salesloft](https://www.salesloft.com) — The other category standard.
+- [Outreach](https://www.outreach.io) — Sales engagement platform.
+- [Salesloft](https://www.salesloft.com) — Sales engagement platform.
 - [Salesforge](https://salesforge.ai) — AI-driven sales engagement.
 - [Apollo](https://apollo.io) — Engagement built into the CRM.
 - [Reply.io](https://reply.io) — SMB-friendly engagement.
@@ -160,7 +160,7 @@
 ## Customer Support
 
 - [Intercom](https://www.intercom.com) — In-app messaging + support, with AI.
-- [Zendesk](https://www.zendesk.com) — The category incumbent.
+- [Zendesk](https://www.zendesk.com) — Customer support platform.
 - [Help Scout](https://www.helpscout.com) — Friendlier alternative.
 - [Front](https://front.com) — Shared inbox for teams.
 - [Crisp](https://crisp.chat) — Affordable live chat + helpdesk.
@@ -253,6 +253,5 @@
 - [Indie Hackers](https://www.indiehackers.com) — Bootstrapper case studies.
 - [Pause Growth](https://pausegrowth.com) — Long-form growth essays.
 - [The Marketing Examined](https://www.marketingexamined.com) — Tactical growth newsletter.
-- [Cold email templates (this repo)](resources/cold-email-templates.md)
-- [Launch day playbook (this repo)](resources/launch-day-playbook.md)
-- [Subreddits to launch in (this repo)](resources/startup-subreddits.md)
+- [Startup subreddits (this repo)](resources/startup-subreddits.md)
+- [Launch directories (this repo)](resources/launch-directories.md)

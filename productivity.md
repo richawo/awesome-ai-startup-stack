@@ -1,6 +1,6 @@
 # Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools that give founders back their most precious resource: time.
+> Tools for dictation, AI assistants, notes, knowledge management, tasks, calendar, email, automation, focus, and reading.
 
 [← Back to main list](README.md)
 
@@ -26,28 +26,28 @@
 
 ## Dictation & Voice Typing
 
-Talking is 4x faster than typing. These tools turn spoken words into written text — drafts, code, replies, anything.
+Tools that convert spoken audio into typed text.
 
-- [Yaps](https://yaps.ai) — Voice typing for macOS. Hold a hotkey, speak, get the cleaned-up text in any app. Built for founders and developers.
-- [Wispr Flow](https://wisprflow.ai) — Hold-and-speak voice typing on Mac/Windows. Strong cross-app integration.
-- [Aqua Voice](https://withaqua.com) — AI dictation with cleanup; Mac focus.
+- [Yaps](https://yaps.ai) — Voice typing for macOS. Hold a hotkey, speak, and the cleaned-up text is inserted into any app.
+- [Wispr Flow](https://wisprflow.ai) — Hold-to-speak voice typing for Mac and Windows.
+- [Aqua Voice](https://withaqua.com) — AI dictation with text cleanup, Mac-focused.
 - [Superwhisper](https://superwhisper.com) — Local Whisper-based dictation for Mac.
-- [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) — Whisper transcription with a clean Mac UI.
-- [BetterDictation](https://betterdictation.com) — Mac dictation that improves on Apple's built-in.
-- [Whisper](https://github.com/openai/whisper) — OpenAI's open-source ASR. The model under most of the tools here.
-- [Talon Voice](https://talonvoice.com) — Voice control for power users — coding by voice, full computer operation.
-- [Dragon Professional](https://www.nuance.com/dragon.html) — The legacy enterprise choice. Still strong for medical and legal.
-- [Otter](https://otter.ai) — Live transcription, primarily for meetings but usable for dictation.
+- [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) — Whisper transcription app for Mac.
+- [BetterDictation](https://betterdictation.com) — Mac dictation app.
+- [Whisper](https://github.com/openai/whisper) — OpenAI's open-source automatic speech recognition model.
+- [Talon Voice](https://talonvoice.com) — Voice-driven computer control, including coding by voice.
+- [Dragon Professional](https://www.nuance.com/dragon.html) — Speech recognition for medical, legal, and enterprise use.
+- [Otter](https://otter.ai) — Live meeting transcription.
 
 ## AI Assistants
 
-- [ChatGPT](https://chat.openai.com) — OpenAI's flagship. Still the default for most founders.
-- [Claude](https://claude.ai) — Anthropic's assistant. Famously strong at writing, reasoning, and long-form work.
-- [Gemini](https://gemini.google.com) — Google's. Tightly integrated with Workspace.
-- [Perplexity](https://perplexity.ai) — Search-grounded AI with citations. Replaces Google for many.
-- [Grok](https://grok.com) — xAI's assistant. Built into X.
-- [Pi](https://pi.ai) — Inflection's chatty AI, conversational tone.
-- [Le Chat](https://chat.mistral.ai) — Mistral's assistant. Open weights underneath.
+- [ChatGPT](https://chat.openai.com) — OpenAI's chatbot.
+- [Claude](https://claude.ai) — Anthropic's chatbot.
+- [Gemini](https://gemini.google.com) — Google's chatbot, integrated with Workspace.
+- [Perplexity](https://perplexity.ai) — Search-grounded AI with citations.
+- [Grok](https://grok.com) — xAI's chatbot, integrated with X.
+- [Pi](https://pi.ai) — Inflection's conversational AI.
+- [Le Chat](https://chat.mistral.ai) — Mistral's chatbot.
 - [HuggingChat](https://huggingface.co/chat) — Open models hosted free.
 - [Poe](https://poe.com) — Multi-model interface (Claude, GPT, Gemini, etc. in one app).
 
@@ -55,7 +55,7 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 
 - [Notion](https://notion.so) — All-in-one docs, databases, wikis. The default.
 - [Apple Notes](https://www.apple.com/icloud/) — Free, fast, syncs everywhere if you're on Apple. Underrated.
-- [Obsidian](https://obsidian.md) — Local-first markdown with backlinks. Power-user favorite.
+- [Obsidian](https://obsidian.md) — Local-first markdown notes with backlinks.
 - [Bear](https://bear.app) — Beautiful markdown notes for Mac/iOS.
 - [Drafts](https://getdrafts.com) — Capture-first notes; everything starts as text.
 - [Reflect](https://reflect.app) — Networked note-taking with AI built in.
@@ -65,7 +65,7 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 - [Craft](https://craft.do) — Beautiful structured docs for Mac/iOS.
 - [Ulysses](https://ulysses.app) — Writing-focused, markdown, library-style.
 - [Logseq](https://logseq.com) — Open-source local-first PKM.
-- [Roam Research](https://roamresearch.com) — Bidirectional links, the OG networked notes.
+- [Roam Research](https://roamresearch.com) — Networked notes with bidirectional links.
 
 ## Knowledge Management
 
@@ -74,13 +74,13 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 - [Reflect](https://reflect.app) — AI-first knowledge base.
 - [Heptabase](https://heptabase.com) — Visual canvas for ideas — cards, links, mind-map.
 - [Anytype](https://anytype.io) — Local-first Notion alternative.
-- [Roam Research](https://roamresearch.com) — Networked thought, the original.
+- [Roam Research](https://roamresearch.com) — Networked notes.
 - [Logseq](https://logseq.com) — Outliner-first PKM.
 - [Mem](https://get.mem.ai) — AI-driven knowledge organization.
 
 ## Task & Project Management
 
-- [Linear](https://linear.app) — Issue tracker beloved by tech teams. Feels fast.
+- [Linear](https://linear.app) — Issue tracker focused on speed and keyboard navigation.
 - [Asana](https://asana.com) — Cross-functional project management for larger teams.
 - [Notion Projects](https://notion.so) — Lightweight PM inside Notion.
 - [Trello](https://trello.com) — Kanban for simple workflows.
@@ -110,12 +110,12 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 
 ## Email Clients
 
-- [Superhuman](https://superhuman.com) — Keyboard-first power-user email. Pricey, fast.
+- [Superhuman](https://superhuman.com) — Keyboard-driven email client.
 - [Hey](https://hey.com) — Basecamp's opinionated take on email.
 - [Spark](https://sparkmailapp.com) — Cross-platform smart inbox.
 - [Notion Mail](https://www.notion.com/product/mail) — Notion's email client (former Skiff team).
 - [Mimestream](https://mimestream.com) — Native Mac client for Gmail, optimized for power users.
-- [Apple Mail](https://www.apple.com/) — Free, native, surprisingly capable on macOS Sequoia.
+- [Apple Mail](https://www.apple.com/) — Native macOS email client.
 - [Shortwave](https://shortwave.com) — AI-powered Gmail interface.
 - [SaneBox](https://sanebox.com) — Inbox triage as a service.
 - [Boomerang](https://www.boomeranggmail.com) — Email scheduling and follow-up reminders.
@@ -158,7 +158,7 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 - [Zapier](https://zapier.com) — The OG no-code automation platform.
 - [Make](https://www.make.com) — Visual workflow builder, more flexible than Zapier.
 - [n8n](https://n8n.io) — Open-source, self-hostable workflow automation.
-- [Pipedream](https://pipedream.com) — Code-friendly automation, generous free tier.
+- [Pipedream](https://pipedream.com) — Code-first automation platform with a free tier.
 - [IFTTT](https://ifttt.com) — Consumer-grade automation.
 - [Workato](https://www.workato.com) — Enterprise iPaaS.
 - [Activepieces](https://www.activepieces.com) — Open-source Zapier alternative.
@@ -213,7 +213,7 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 ## Password & Secrets
 
 - [1Password](https://1password.com) — The default for most teams.
-- [Bitwarden](https://bitwarden.com) — Open-source, self-hostable. Free tier is generous.
+- [Bitwarden](https://bitwarden.com) — Open-source, self-hostable password manager.
 - [Dashlane](https://www.dashlane.com) — Strong UX and dark-web monitoring.
 - [Proton Pass](https://proton.me/pass) — Privacy-first.
 - [Apple Keychain](https://www.apple.com/) — Free, native, fine for Apple-only households.
@@ -224,7 +224,7 @@ Talking is 4x faster than typing. These tools turn spoken words into written tex
 
 - [Raycast](https://raycast.com) — Spotlight on steroids — apps, snippets, scripts, AI, all from a hotkey.
 - [Alfred](https://www.alfredapp.com) — The classic Mac launcher with workflows.
-- [LaunchBar](https://www.obdev.at/products/launchbar/) — The original Mac launcher, still excellent.
-- [Spotlight](https://www.apple.com/) — Free, built-in, surprisingly powerful in newer macOS.
+- [LaunchBar](https://www.obdev.at/products/launchbar/) — Mac application launcher.
+- [Spotlight](https://www.apple.com/) — Built-in macOS launcher.
 - [Flow Launcher](https://www.flowlauncher.com) — Open-source launcher for Windows.
 - [PowerToys Run](https://learn.microsoft.com/en-us/windows/powertoys/run) — Microsoft's official Spotlight clone.

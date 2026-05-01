@@ -1,50 +1,45 @@
 # Contributing
 
-Thanks for thinking about contributing to **Awesome AI Startup Stack**. The whole point of this list is to be high-signal and low-noise, so we're a little selective.
+Thanks for considering a contribution to **Awesome AI Startup Stack**.
 
-## What we're looking for
+## Submission criteria
 
-Tools, services, and resources that:
+Entries should be:
 
-- We'd actually recommend to a friend building an AI startup
-- Solve a real problem (not just demos or "AI for AI's sake")
-- Are reasonably priced or free for early-stage founders
-- Are well-maintained and unlikely to disappear in 3 months
-- Aren't already adequately covered by something else in the list
+- Tools, services, or reference resources relevant to AI startup founders.
+- Actively maintained at the time of submission.
+- Distinct from existing entries (not a near-duplicate).
+- Linked directly to the product or resource page (not a blog post, affiliate URL, or referral link).
 
-## What we're not looking for
+Entries that will be rejected:
 
-- Paid placements or affiliate-driven submissions
-- Self-promotion of half-baked products
-- Tools that are functionally identical to ones already listed
-- Tutorials, blog posts, or one-off articles (unless they're truly canonical)
+- Paid placements and affiliate-driven submissions.
+- Tutorials, blog posts, or one-off articles.
+- Tools that are functionally identical to ones already listed.
 
 ## How to submit
 
-1. Fork the repo
-2. Find the right category file (or open an issue if you're not sure)
-3. Add your entry following the existing format:
+1. Fork the repository.
+2. Find the relevant category file (or open an issue if unsure).
+3. Add your entry using the existing format:
 
    ```markdown
-   - [Tool Name](https://example.com) — Short, factual description (10–20 words). What it does and why it's useful.
+   - [Tool Name](https://example.com) — Short factual description of what the tool does (10–20 words).
    ```
 
-4. Open a PR with a brief explanation of why this tool deserves to be on the list and any direct experience you have with it
+4. Open a pull request describing the entry and why it fits the category.
 
 ## Format guidelines
 
-- Keep descriptions short and factual — no marketing language
-- Always link directly to the product, not to a blog post or affiliate URL
-- Group related tools under the appropriate sub-heading
-- Alphabetize within sub-headings unless there's a strong ordering reason
-
-## Editorial decisions
-
-The maintainers reserve the right to merge, reject, or modify submissions to keep the list useful. We'd rather have 20 great tools in a category than 200 mediocre ones.
+- Descriptions should be factual: state what the tool does, not how good it is.
+- Avoid superlatives ("the best", "the leader", "the standard", "underrated", etc.).
+- Avoid marketing copy and slogans.
+- Place entries in the appropriate sub-section.
+- Where there is no ordering convention, alphabetize within sub-sections.
 
 ## Reporting broken or outdated entries
 
-Open an issue with the entry name and what's wrong. We'll review and prune.
+Open an issue with the entry name and a description of the problem.
 
 ## Code of conduct
 

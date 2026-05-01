@@ -1,6 +1,6 @@
 # Building [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools and infrastructure to ship AI products faster — from your IDE to your inference layer.
+> Tools and infrastructure for building AI products: IDEs, APIs, agents, vector DBs, RAG, inference, evals, voice, vision, backend, databases, auth, payments, frontend, mobile, desktop, and hosting.
 
 [← Back to main list](README.md)
 
@@ -32,7 +32,7 @@
 ## AI Coding Assistants
 
 - [Claude Code](https://www.anthropic.com/claude-code) — Anthropic's terminal-first agentic coder.
-- [Cursor](https://cursor.com) — VS Code fork built around AI. The category leader.
+- [Cursor](https://cursor.com) — VS Code fork with built-in AI features.
 - [Windsurf](https://windsurf.com) — Codeium's IDE, also forked from VS Code.
 - [Zed](https://zed.dev) — Native, multiplayer editor with first-class AI.
 - [GitHub Copilot](https://github.com/features/copilot) — The original AI pair programmer.
@@ -40,7 +40,7 @@
 - [Cline](https://cline.bot) — Open-source autonomous coding agent for VS Code.
 - [Aider](https://aider.chat) — Terminal-based pair programmer with git integration.
 - [Continue](https://continue.dev) — Open-source Copilot alternative.
-- [Tabnine](https://www.tabnine.com) — One of the original AI completion tools.
+- [Tabnine](https://www.tabnine.com) — AI completion tool.
 - [Codeium](https://codeium.com) — Free Copilot alternative.
 - [Replit Agent](https://replit.com) — Cloud IDE + AI agent for full-stack apps.
 - [Bolt.new](https://bolt.new) — Browser-based AI app builder.
@@ -52,7 +52,7 @@
 ## LLM APIs & Foundation Models
 
 - [Anthropic / Claude](https://www.anthropic.com) — Opus, Sonnet, Haiku. Strong at reasoning, writing, long context.
-- [OpenAI](https://openai.com) — GPT-4o, o-series, GPT-5. The category default.
+- [OpenAI](https://openai.com) — GPT-4o, o-series, and GPT-5 model families.
 - [Google / Gemini](https://ai.google.dev) — Gemini Pro, Flash. Best free tier, huge context.
 - [xAI / Grok](https://x.ai) — Grok models, integrated with X.
 - [Mistral](https://mistral.ai) — French open-weight provider, Le Chat consumer app.
@@ -97,10 +97,10 @@
 
 ## Vector Databases
 
-- [Pinecone](https://pinecone.io) — Hosted vector DB, the category default for production.
+- [Pinecone](https://pinecone.io) — Hosted vector database.
 - [Weaviate](https://weaviate.io) — Open-source vector DB with built-in modules.
 - [Qdrant](https://qdrant.tech) — Open-source, written in Rust. Self-hostable.
-- [Chroma](https://www.trychroma.com) — Lightweight, open-source, popular for prototypes.
+- [Chroma](https://www.trychroma.com) — Lightweight open-source vector database.
 - [Milvus](https://milvus.io) — Open-source vector DB at scale.
 - [pgvector](https://github.com/pgvector/pgvector) — Vector extension for Postgres. Often the right answer.
 - [Turbopuffer](https://turbopuffer.com) — Serverless vector search on object storage.
@@ -113,7 +113,7 @@
 
 - [OpenAI embeddings](https://platform.openai.com/docs/guides/embeddings) — `text-embedding-3` family.
 - [Cohere embeddings](https://cohere.com/embed) — Enterprise-focused embeddings + rerank.
-- [Voyage AI](https://www.voyageai.com) — Specialized embedding models, often best-in-class on benchmarks.
+- [Voyage AI](https://www.voyageai.com) — Specialized embedding models.
 - [Nomic](https://nomic.ai) — Open-weight embeddings + Atlas viz.
 - [BGE / BAAI](https://huggingface.co/BAAI) — Top open-weight embeddings.
 - [Jina](https://jina.ai) — Multimodal embeddings.
@@ -129,7 +129,7 @@
 - [Replicate](https://replicate.com) — One-line model hosting + API.
 - [Together AI](https://www.together.ai) — OSS-model inference, fast.
 - [Fireworks](https://fireworks.ai) — Fast OSS-model inference, fine-tuning included.
-- [Modal](https://modal.com) — Python-first serverless GPU runtime. **$30/month free compute credit** makes it the best free-tier option for indie AI builders.
+- [Modal](https://modal.com) — Python-first serverless GPU runtime. Includes $30/month free compute credit.
 - [Beam](https://www.beam.cloud) — Serverless GPU inference.
 - [Anyscale](https://www.anyscale.com) — Ray-based scalable AI compute.
 - [Baseten](https://www.baseten.co) — Model deployment platform.
@@ -200,13 +200,13 @@
 ## Backend Infrastructure
 
 - [Vercel](https://vercel.com) — Frontend hosting + serverless. Made for Next.js.
-- [Railway](https://railway.app) — Heroku for the modern era.
+- [Railway](https://railway.app) — App hosting platform.
 - [Render](https://render.com) — Heroku alternative with cleaner UX.
 - [Fly.io](https://fly.io) — Apps run close to users on edge.
 - [Cloudflare Workers](https://workers.cloudflare.com) — Edge compute, fast cold starts.
 - [Cloudflare Pages](https://pages.cloudflare.com) — Static + serverless hosting.
 - [Netlify](https://www.netlify.com) — Original Jamstack host.
-- [AWS](https://aws.amazon.com) — Still the cloud incumbent.
+- [AWS](https://aws.amazon.com) — Amazon Web Services cloud platform.
 - [GCP](https://cloud.google.com) — Strong on ML / data infra.
 - [Azure](https://azure.microsoft.com) — Best for Microsoft-shop integrations.
 - [DigitalOcean](https://www.digitalocean.com) — Simpler IaaS, fairer pricing.
@@ -237,7 +237,7 @@
 ## Auth & User Management
 
 - [Clerk](https://clerk.com) — Modern auth with great DX. The current default.
-- [Auth0](https://auth0.com) — Enterprise auth incumbent (Okta-owned).
+- [Auth0](https://auth0.com) — Authentication platform (Okta-owned).
 - [Stytch](https://stytch.com) — Passwordless-first.
 - [Supabase Auth](https://supabase.com/auth) — Free with Supabase.
 - [Firebase Auth](https://firebase.google.com/products/auth) — Free with Firebase.
@@ -267,7 +267,7 @@
 ## Frontend Frameworks
 
 - [Next.js](https://nextjs.org) — The React meta-framework most teams pick.
-- [React](https://react.dev) — Still the dominant UI library.
+- [React](https://react.dev) — JavaScript library for building UIs.
 - [Remix](https://remix.run) — React framework with web-fundamentals philosophy.
 - [Astro](https://astro.build) — Content-focused, multi-framework friendly.
 - [SvelteKit](https://kit.svelte.dev) — The Svelte meta-framework.
@@ -306,7 +306,7 @@
 ## Mobile Development
 
 - [React Native](https://reactnative.dev) — Cross-platform native, JS-based.
-- [Expo](https://expo.dev) — RN dev platform; the modern default.
+- [Expo](https://expo.dev) — React Native development platform.
 - [Flutter](https://flutter.dev) — Google's cross-platform UI framework.
 - [Swift / SwiftUI](https://developer.apple.com/swift/) — Native iOS.
 - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) — Cross-platform business logic in Kotlin.
@@ -330,7 +330,7 @@
 
 - [GitHub](https://github.com) — Code hosting + actions + collaboration.
 - [GitLab](https://about.gitlab.com) — Self-hostable alternative.
-- [Linear](https://linear.app) — Issue tracking, the developer favorite.
+- [Linear](https://linear.app) — Issue tracking and project management.
 - [Sentry](https://sentry.io) — Error tracking, frontend + backend.
 - [PostHog](https://posthog.com) — Product analytics + feature flags + replay.
 - [Datadog](https://www.datadoghq.com) — Enterprise APM.

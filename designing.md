@@ -1,6 +1,6 @@
 # Designing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools to design beautiful, distinctive AI products and brands — without needing a full design team.
+> Tools for designing AI products, brands, and assets.
 
 [← Back to main list](README.md)
 
@@ -27,13 +27,13 @@
 
 ## Design Tools
 
-- [Figma](https://figma.com) — The industry standard. Real-time collaboration, full plugin ecosystem.
-- [Sketch](https://www.sketch.com) — Mac-only, classic. Still loved by some teams.
+- [Figma](https://figma.com) — Real-time collaborative design tool with a plugin ecosystem.
+- [Sketch](https://www.sketch.com) — Mac-only vector design tool.
 - [Penpot](https://penpot.app) — Open-source, self-hostable Figma alternative.
 - [Adobe XD](https://www.adobe.com/products/xd.html) — Sunsetting but still used.
 - [Framer](https://framer.com) — Design + ship websites in one tool.
 - [Affinity Designer](https://affinity.serif.com/designer/) — Vector design, one-time purchase.
-- [Procreate](https://procreate.com) — iPad illustration powerhouse.
+- [Procreate](https://procreate.com) — iPad illustration and digital painting app.
 - [Sketchbook](https://www.sketchbook.com) — Free digital sketchpad.
 
 ## UI Component Libraries
@@ -68,7 +68,7 @@
 - [Lightning (Salesforce)](https://www.lightningdesignsystem.com) — Salesforce's system.
 - [Stripe Components](https://stripe.com/docs/elements) — Stripe's payment components.
 - [GOV.UK Design System](https://design-system.service.gov.uk) — Public-sector inspiration.
-- [Geist](https://vercel.com/geist) — Vercel's modern system.
+- [Geist](https://vercel.com/geist) — Vercel's design system.
 - [Primer (GitHub)](https://primer.style) — GitHub's system.
 - [Spectrum (Adobe)](https://spectrum.adobe.com) — Adobe's system.
 
@@ -146,7 +146,7 @@
 
 ## Stock Photos
 
-- [Unsplash](https://unsplash.com) — Free, beautiful, large.
+- [Unsplash](https://unsplash.com) — Free stock photo library.
 - [Pexels](https://pexels.com) — Free, growing fast.
 - [Pixabay](https://pixabay.com) — Free, large, varied quality.
 - [Twenty20](https://twenty20.com) — Curated, paid.
@@ -253,9 +253,9 @@
 ## Whiteboarding
 
 - [FigJam](https://www.figma.com/figjam/) — Figma's whiteboard.
-- [Miro](https://miro.com) — The category default.
+- [Miro](https://miro.com) — Online collaborative whiteboard.
 - [Mural](https://www.mural.co) — Enterprise whiteboard.
-- [Tldraw](https://www.tldraw.com) — Open-source, beautifully simple.
+- [Tldraw](https://www.tldraw.com) — Open-source whiteboard.
 - [Excalidraw](https://excalidraw.com) — Hand-drawn-style.
 - [Whimsical](https://whimsical.com) — Multi-mode (whiteboard + flowchart + wireframe).
 - [Lucidspark](https://www.lucidspark.com) — Lucidchart's whiteboard.
@@ -273,7 +273,7 @@
 
 ## 3D Tools
 
-- [Blender](https://www.blender.org) — Free, open-source 3D powerhouse.
+- [Blender](https://www.blender.org) — Free, open-source 3D modeling and rendering.
 - [Spline](https://spline.design) — In-browser 3D for designers.
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d) — Industry-standard 3D.
 - [Womp](https://www.womp.com) — Beginner-friendly 3D.

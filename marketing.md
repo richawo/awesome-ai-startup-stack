@@ -1,8 +1,8 @@
 # Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools and resources to actually get your AI startup in front of the people who need it.
+> Tools for advertising, SEO, content, email, newsletters, social, influencer, landing pages, analytics, attribution, PR, community, and ASO.
 
-[← Back to main list](README.md) · See also: [Marketing video hooks](resources/marketing-video-hooks.md) · [Subreddits guide](resources/startup-subreddits.md) · [Cold email templates](resources/cold-email-templates.md)
+[← Back to main list](README.md) · See also: [Marketing video hooks](resources/marketing-video-hooks.md) · [Startup subreddits](resources/startup-subreddits.md) · [Launch directories](resources/launch-directories.md)
 
 ## Contents
 
@@ -42,7 +42,7 @@
 
 ## SEO
 
-- [Ahrefs](https://ahrefs.com) — The premium SEO research suite.
+- [Ahrefs](https://ahrefs.com) — SEO research and competitive analysis suite.
 - [SEMrush](https://www.semrush.com) — Ahrefs alternative, broader marketing platform.
 - [Moz](https://moz.com) — The original SEO toolkit.
 - [Surfer SEO](https://surferseo.com) — Content optimization with NLP.
@@ -234,8 +234,8 @@
 
 ## Heatmaps & Session Replay
 
-- [Hotjar](https://www.hotjar.com) — The category default.
-- [Microsoft Clarity](https://clarity.microsoft.com) — Free, surprisingly good.
+- [Hotjar](https://www.hotjar.com) — Heatmaps and session recordings.
+- [Microsoft Clarity](https://clarity.microsoft.com) — Free heatmaps and session recordings.
 - [FullStory](https://www.fullstory.com) — Enterprise session replay.
 - [LogRocket](https://logrocket.com) — Frontend session replay + monitoring.
 - [Smartlook](https://www.smartlook.com) — Heatmaps + recordings.
@@ -246,28 +246,30 @@
 
 - [Optimizely](https://www.optimizely.com) — Enterprise experimentation.
 - [VWO](https://vwo.com) — Mid-market A/B testing.
-- [Statsig](https://statsig.com) — Modern, generous free tier.
+- [Statsig](https://statsig.com) — Experimentation and feature-flag platform with a free tier.
 - [PostHog Experiments](https://posthog.com/product/experiments) — Comes with PostHog.
 - [GrowthBook](https://www.growthbook.io) — Open-source feature flags + experiments.
 - [Eppo](https://www.geteppo.com) — Statistically rigorous A/B testing.
 - [LaunchDarkly](https://launchdarkly.com) — Feature flags + targeting.
 - [AB Tasty](https://www.abtasty.com) — Mid-market.
 
-## Marketing Playbooks
+## Marketing Books, Newsletters, and Communities
 
-Books and resources that teach marketing, not tools.
+Reference material relevant to marketing, organized by source.
 
-- [Traction](https://amzn.to/3HZ8L2K) (Gabriel Weinberg) — The 19 channels every startup should test. Required reading.
-- [Demand Curve](https://www.demandcurve.com/) — Growth playbook + courses.
-- [Reforge](https://www.reforge.com) — Operator-led growth/PMM/eng programs.
-- [Lenny's Newsletter](https://www.lennysnewsletter.com) — Lenny Rachitsky's product/growth newsletter.
-- [Growth Hackers](https://growthhackers.com) — Community + content.
-- [SaaStr](https://www.saastr.com) — SaaS playbooks (Jason Lemkin).
-- [Stratechery](https://stratechery.com) — Strategic analysis (Ben Thompson).
-- [The Marketing Examined](https://www.marketingexamined.com) — Alex Garcia's marketing newsletter.
-- [Sparktoro](https://sparktoro.com) — Audience research + content.
-- [Convertkit Creators Index](https://kit.com) — Real creator data.
-- [Hook library — 500 viral hooks](resources/marketing-video-hooks.md) — In this repo.
-- [Subreddits to launch in](resources/startup-subreddits.md) — In this repo.
-- [Cold email templates](resources/cold-email-templates.md) — In this repo.
-- [Launch day playbook](resources/launch-day-playbook.md) — In this repo.
+- [Traction](https://www.tractionbook.com) — Gabriel Weinberg and Justin Mares. Book on the 19 acquisition channels.
+- [Demand Curve](https://www.demandcurve.com/) — Growth marketing courses and articles.
+- [Reforge](https://www.reforge.com) — Operator-led growth, PM, and engineering programs.
+- [Lenny's Newsletter](https://www.lennysnewsletter.com) — Newsletter on product, growth, and hiring.
+- [Growth Hackers](https://growthhackers.com) — Growth marketing community and content.
+- [SaaStr](https://www.saastr.com) — SaaS-focused content by Jason Lemkin.
+- [Stratechery](https://stratechery.com) — Strategic analysis by Ben Thompson.
+- [The Marketing Examined](https://www.marketingexamined.com) — Marketing newsletter by Alex Garcia.
+- [Sparktoro](https://sparktoro.com) — Audience research tool with content.
+- [Convertkit Creators Index](https://kit.com) — Creator earnings data.
+
+In-repo references:
+
+- [Marketing video hooks](resources/marketing-video-hooks.md)
+- [Startup subreddits](resources/startup-subreddits.md)
+- [Launch directories](resources/launch-directories.md)

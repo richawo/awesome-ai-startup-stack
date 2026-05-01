@@ -1,6 +1,6 @@
 # Content Creation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools to produce content at the quality and pace that modern audiences expect.
+> Tools for producing video, audio, image, and written content.
 
 [← Back to main list](README.md) · See also: [Marketing video hooks](resources/marketing-video-hooks.md) · [Marketing tools](marketing.md)
 
@@ -29,8 +29,8 @@
 ## Video Editing
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Free Hollywood-grade NLE. Surprisingly capable on the free tier.
-- [Final Cut Pro](https://www.apple.com/final-cut-pro/) — Mac-only, fast, mature.
-- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) — The industry standard.
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/) — Mac-only video editor.
+- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) — Professional video editing software.
 - [CapCut](https://www.capcut.com) — Free, fast, the TikTok-creator standard.
 - [Descript](https://www.descript.com) — Edit video by editing the transcript.
 - [VEED](https://www.veed.io) — Browser-based editor with strong AI features.
@@ -60,10 +60,10 @@
 
 ## Screen Recording
 
-- [Loom](https://www.loom.com) — Async video messages, the category default.
+- [Loom](https://www.loom.com) — Async video messaging.
 - [Cap](https://cap.so) — Open-source Loom alternative.
 - [Screen Studio](https://www.screen.studio) — Beautiful Mac screen recordings with auto zoom.
-- [Tella](https://www.tella.tv) — Browser-based polished screen recording.
+- [Tella](https://www.tella.tv) — Browser-based screen recording.
 - [ScreenFlow](https://www.telestream.net/screenflow/) — Mac screen recorder + editor.
 - [OBS Studio](https://obsproject.com) — Open-source recording + streaming.
 - [Camo](https://reincubate.com/camo/) — Use a phone as your webcam.
@@ -108,7 +108,7 @@
 
 ## AI Voice & Speech Synthesis
 
-- [ElevenLabs](https://elevenlabs.io) — The category leader. Voice cloning + TTS.
+- [ElevenLabs](https://elevenlabs.io) — Voice cloning and TTS.
 - [Cartesia](https://cartesia.ai) — Low-latency conversational voice.
 - [Play.HT](https://play.ht) — TTS with strong library.
 - [Resemble AI](https://www.resemble.ai) — Voice cloning + TTS.
@@ -188,7 +188,7 @@
 - [Photoshop](https://www.adobe.com/products/photoshop.html) — Industry standard.
 - [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) — Photo cataloguing + edits.
 - [Affinity Photo](https://affinity.serif.com/photo/) — One-time-purchase Photoshop alternative.
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) — Mac-native, beautiful.
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) — Mac-native photo editor.
 - [Photopea](https://www.photopea.com) — Free browser Photoshop clone.
 - [Photoroom](https://www.photoroom.com) — AI background removal + product photos.
 - [Picsart](https://picsart.com) — Mobile-first photo editor.
@@ -252,7 +252,7 @@
 - [Epidemic Sound](https://www.epidemicsound.com) — The creator default.
 - [Artlist](https://artlist.io) — Strong music library.
 - [Soundstripe](https://www.soundstripe.com) — Royalty-free.
-- [Musicbed](https://www.musicbed.com) — Curated, often premium-feeling.
+- [Musicbed](https://www.musicbed.com) — Music licensing platform.
 - [Uppbeat](https://uppbeat.io) — Free + paid for YouTube creators.
 - [YouTube Audio Library](https://www.youtube.com/audiolibrary) — Free, no copyright issues on YT.
 

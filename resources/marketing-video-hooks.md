@@ -1,14 +1,12 @@
-# Marketing Video Hooks — The Hook Library [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Marketing Video Hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 500 proven viral hook templates for short-form video (TikTok, Reels, Shorts, X). The first 3 seconds decide whether a video gets watched — these templates are what works.
+> 500 short-form video hook templates, sourced from [clipspal.com/hook-library](https://www.clipspal.com/hook-library) on 2026-04-20.
 
 [← Back to main list](../README.md) · See also: [Marketing tools](../marketing.md) · [Content creation tools](../content-creation.md)
 
 ---
 
-Source: scraped from [clipspal.com/hook-library](https://www.clipspal.com/hook-library) on 2026-04-20 — included here for offline reference and SEO.
-
-Each template uses square brackets for variables you fill in (e.g., `[profession]`, `[finding]`). Three concrete examples follow every template.
+Each template uses square brackets for variables (e.g., `[profession]`, `[finding]`). Three concrete examples follow every template.
 
 ## Contents
 
