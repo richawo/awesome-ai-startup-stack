@@ -33,6 +33,7 @@ The reference content founders actually need, organized into focused guides:
 
 - 📚 [**500 Marketing Video Hooks**](resources/marketing-video-hooks.md) — The Hook Library. Every viral short-form video template, with examples.
 - 📍 [**60+ Subreddits to Launch In**](resources/startup-subreddits.md) — Curated by category, with rules, post formats, and what works where.
+- 🗂️ [**Launch Directories for AI Startups**](resources/launch-directories.md) — Tiered list of Product Hunt, TAAFT, Futurepedia, TinyLaunch, G2, AI Top Tools, and 80+ more, with an honest "what to skip" section.
 - ✉️ [**Cold Email Templates That Work**](resources/cold-email-templates.md) — Real templates for sales, investors, press, partnerships, hiring, customer interviews, and more.
 - 🚀 [**The Launch Day Playbook**](resources/launch-day-playbook.md) — Hour-by-hour for Product Hunt, Hacker News, Reddit, Twitter, and post-launch.
 - 💸 [**Free Compute & Credits for AI Builders**](resources/free-compute-and-credits.md) — Free GPUs, LLM credits, hosting, databases, and startup credit programs. Bootstrap an AI startup on $0.
