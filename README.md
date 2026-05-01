@@ -35,6 +35,7 @@ The reference content founders actually need, organized into focused guides:
 - 📍 [**60+ Subreddits to Launch In**](resources/startup-subreddits.md) — Curated by category, with rules, post formats, and what works where.
 - ✉️ [**Cold Email Templates That Work**](resources/cold-email-templates.md) — Real templates for sales, investors, press, partnerships, hiring, customer interviews, and more.
 - 🚀 [**The Launch Day Playbook**](resources/launch-day-playbook.md) — Hour-by-hour for Product Hunt, Hacker News, Reddit, Twitter, and post-launch.
+- 💸 [**Free Compute & Credits for AI Builders**](resources/free-compute-and-credits.md) — Free GPUs, LLM credits, hosting, databases, and startup credit programs. Bootstrap an AI startup on $0.
 - 📊 [**SaaS Metrics Cheatsheet**](resources/saas-metrics-cheatsheet.md) — Every metric, formula, and benchmark — from MRR to magic number.
 - 📑 [**Pitch Deck Examples & Templates**](resources/pitch-deck-examples.md) — The Sequoia and YC frameworks, real decks from Airbnb, Buffer, Front, Linkedin, and more.
 - 📖 [**Founder Reading List**](resources/founder-reading-list.md) — The books, essays, podcasts, newsletters, and X follows that have shaped the best operators.

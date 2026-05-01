@@ -129,7 +129,7 @@
 - [Replicate](https://replicate.com) — One-line model hosting + API.
 - [Together AI](https://www.together.ai) — OSS-model inference, fast.
 - [Fireworks](https://fireworks.ai) — Fast OSS-model inference, fine-tuning included.
-- [Modal](https://modal.com) — Python-first serverless GPU runtime.
+- [Modal](https://modal.com) — Python-first serverless GPU runtime. **$30/month free compute credit** makes it the best free-tier option for indie AI builders.
 - [Beam](https://www.beam.cloud) — Serverless GPU inference.
 - [Anyscale](https://www.anyscale.com) — Ray-based scalable AI compute.
 - [Baseten](https://www.baseten.co) — Model deployment platform.
