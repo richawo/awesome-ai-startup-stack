@@ -24,6 +24,7 @@ Lists and reference data, not playbooks:
 - 📚 [**Marketing Video Hooks**](resources/marketing-video-hooks.md) — 500 short-form video hook templates with examples.
 - 📍 [**Startup Subreddits**](resources/startup-subreddits.md) — Subreddits relevant to AI startup founders, organized by topic.
 - 🗂️ [**Launch Directories**](resources/launch-directories.md) — Directories where startups can be submitted, organized by category.
+- 🔗 [**SEO Directory Submissions**](resources/seo-directory-submissions.md) — 200+ directories ranked by Domain Rating (DR) for backlink and SEO purposes.
 - 💸 [**Free Compute & Credits**](resources/free-compute-and-credits.md) — Free GPU notebooks, serverless compute, LLM credits, hosting, databases, and startup credit programs.
 - 📊 [**SaaS Metrics Reference**](resources/saas-metrics-cheatsheet.md) — Definitions, formulas, and benchmark tables for common SaaS metrics.
 - 📑 [**Pitch Deck Examples & Templates**](resources/pitch-deck-examples.md) — Frameworks, real pitch decks, and tools.
