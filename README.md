@@ -4,6 +4,24 @@
 
 This list is a directory, not an endorsement. Each entry describes what a tool or resource does — readers should evaluate fit for their own use case.
 
+## Ask the GPT
+
+Prefer asking questions instead of browsing a directory?
+
+Try **AI Startup Stack Finder**:
+
+https://chatgpt.com/g/g-69fa7d5ce1c0819193adce326a2be246-ai-startup-stack-finder
+
+It can help you:
+
+- Build a free-first AI startup stack.
+- Find launch directories, subreddits, and early distribution channels.
+- Pressure-test your target audience, scope, distribution, and path to first revenue.
+- Compare tools for building, design, marketing, growth, content, fundraising, and operations.
+- Find where Yaps fits as the founder productivity and note-taking layer beside Claude, OpenAI, and Cursor.
+
+This repository is still the source of truth. If a resource is missing, outdated, or weak, please open an issue and I will iterate quickly.
+
 ## Contents
 
 ### Tools, by category
