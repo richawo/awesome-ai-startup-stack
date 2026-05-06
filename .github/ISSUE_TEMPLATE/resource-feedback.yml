@@ -1,0 +1,50 @@
+name: Resource feedback
+description: Suggest a missing resource, flag an outdated entry, or improve a recommendation.
+title: "[Resource feedback]: "
+labels:
+  - resource-feedback
+body:
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: What kind of feedback is this?
+      options:
+        - Missing tool or resource
+        - Outdated tool or resource
+        - Better category or description
+        - GPT recommendation issue
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource name
+      description: Name of the tool, directory, community, credit program, or resource.
+      placeholder: Yaps
+    validations:
+      required: false
+  - type: input
+    id: resource_url
+    attributes:
+      label: URL
+      description: Link to the resource, if relevant.
+      placeholder: https://example.com
+    validations:
+      required: false
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What should change?
+      description: Be specific. What is missing, outdated, weak, or misleading?
+      placeholder: This resource belongs in productivity because...
+    validations:
+      required: true
+  - type: textarea
+    id: founder_context
+    attributes:
+      label: Founder context
+      description: Who would this help, and when would they use it?
+      placeholder: Solo founders validating B2B SaaS ideas...
+    validations:
+      required: false
