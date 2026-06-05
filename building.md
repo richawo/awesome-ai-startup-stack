@@ -63,6 +63,7 @@
 - [Together AI](https://www.together.ai) — Open-model inference at scale.
 - [Replicate](https://replicate.com) — Run open models with one API call.
 - [OpenRouter](https://openrouter.ai) — Single API to access dozens of models from one billing account.
+- [CoderPlan](https://coderplan.ai) — OpenAI-compatible API gateway for Claude Code, Cursor, and AI coding tools. Pay-per-use with free tier.
 - [Groq](https://groq.com) — Custom LPU inference at extreme speed.
 - [Cerebras](https://cerebras.ai) — Wafer-scale inference, fastest hosted Llama.
 - [Fireworks](https://fireworks.ai) — Fast OSS-model inference.
