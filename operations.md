@@ -34,6 +34,7 @@
 - [Capbase](https://capbase.com) — Incorporation + cap table + paperwork.
 - [Firstbase](https://www.firstbase.io) — US company formation for international founders.
 - [doola](https://www.doola.com) — US LLC formation for international founders.
+- [LLC Class](https://llcclass.com/wyoming) — Wyoming LLC formation for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement in one package — ready to connect Stripe and Mercury.
 - [Tetra](https://tetra.com) — UK + US incorporation.
 - [Companies House](https://www.gov.uk/government/organisations/companies-house) — UK direct.
 - [Delaware Division of Corporations](https://corp.delaware.gov) — Delaware direct.
