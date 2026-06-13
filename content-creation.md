@@ -157,6 +157,7 @@
 - [Hemingway](https://hemingwayapp.com) — Readability checker.
 - [Grammarly](https://www.grammarly.com) — Grammar + tone.
 - [ProWritingAid](https://prowritingaid.com) — Grammar + style for fiction writers.
+- [CreatorSkills](https://creatorskills.co) — Downloadable AI skill packs for YouTube scripting, sponsorships, and audience growth. Works with Claude and ChatGPT.
 
 ## Long-Form Editing
 
