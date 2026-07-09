@@ -201,6 +201,7 @@
 - [Transcend](https://transcend.io) — Privacy automation.
 - [Termly](https://termly.io) — Free / cheap policies (privacy, ToS, cookies).
 - [iubenda](https://www.iubenda.com) — Privacy policies + cookie banners.
+- [PolicyAI](https://policy-ai-alpha.vercel.app) — AI-generated GDPR & CCPA privacy policy, terms of service, and cookie policy for your website in 60 seconds. Free tier. Pro $19/month.
 - [Cookiebot](https://www.cookiebot.com) — Cookie consent management.
 
 ## Insurance
