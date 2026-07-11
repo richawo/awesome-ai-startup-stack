@@ -57,6 +57,7 @@
 - [Higgsfield](https://higgsfield.ai) — Cinematic AI video.
 - [Kling](https://kling.kuaishou.com/en) — Chinese AI video model.
 - [Hailuo (Minimax)](https://hailuoai.com) — Strong text-to-video model.
+- [ImagineClip](https://imagineclip.com) — AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts and images.
 
 ## Screen Recording
 
