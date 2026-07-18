@@ -48,6 +48,7 @@
 - [Keynote](https://www.apple.com/keynote/) — Mac default.
 - [Google Slides](https://www.google.com/slides/about/) — Free, collaborative.
 - [PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint) — Still ships.
+- [DDScore](https://www.ddscore.ai/for-founder/) — Playful Pixels Oy tool for first-pass pitch-deck analysis with a 0–100 score across 12 diligence dimensions.
 - [Decktopus](https://www.decktopus.com) — AI deck builder.
 - [Pitchdeck.io](https://pitchdeck.io) — Specialized pitch deck templates.
 
