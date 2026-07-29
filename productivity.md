@@ -44,6 +44,7 @@ Tools that convert spoken audio into typed text.
 - [ChatGPT](https://chat.openai.com) — OpenAI's chatbot.
 - [Claude](https://claude.ai) — Anthropic's chatbot.
 - [Gemini](https://gemini.google.com) — Google's chatbot, integrated with Workspace.
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) — Multi-model chat, image generation, and file analysis workspace with a limited daily free tier.
 - [Perplexity](https://perplexity.ai) — Search-grounded AI with citations.
 - [Grok](https://grok.com) — xAI's chatbot, integrated with X.
 - [Pi](https://pi.ai) — Inflection's conversational AI.
