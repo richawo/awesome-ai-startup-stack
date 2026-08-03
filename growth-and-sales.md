@@ -167,6 +167,7 @@
 - [Plain](https://www.plain.com) — Modern, dev-friendly support.
 - [Pylon](https://usepylon.com) — B2B support across Slack/email.
 - [Linear Customer Requests](https://linear.app) — If you're a Linear shop.
+- [Workforce Wave](https://www.workforcewave.com) — AI voice agent that answers inbound calls, books appointments, and handles after-hours customer inquiries.
 
 ## Live Chat & Helpdesk
 
