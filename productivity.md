@@ -146,6 +146,7 @@ Tools that convert spoken audio into typed text.
 ## Search & Reference
 
 - [Perplexity](https://perplexity.ai) — AI search with sources. Replaces Google for research.
+- [IdeaHunter](https://ideahunter.today) — AI research for demand-backed app and micro-SaaS ideas.
 - [Phind](https://phind.com) — Developer-focused AI search.
 - [You.com](https://you.com) — Customizable AI search.
 - [Kagi](https://kagi.com) — Paid, ad-free search engine.
