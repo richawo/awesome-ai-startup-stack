@@ -58,6 +58,7 @@
 - [Sistrix](https://www.sistrix.com) — Strong in EU markets.
 - [Pagespeed Insights](https://pagespeed.web.dev) — Free Core Web Vitals checks.
 - [Schema App](https://www.schemaapp.com) — Schema markup tool.
+- [SellerMind](https://thesellermind.com) — AI-powered Etsy SEO and pricing optimization for Etsy sellers.
 
 ## Content Marketing & CMS
 
