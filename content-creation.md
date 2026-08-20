@@ -87,6 +87,7 @@
 - [SquadCast](https://squadcast.fm) — Riverside competitor with strong audio.
 - [Descript](https://www.descript.com) — Edit podcasts via transcript.
 - [Hindenburg](https://hindenburg.com) — Pro podcast production.
+- [PodCrisp](https://podcrisp.com) — AI-powered podcast naming and SEO optimization tool.
 - [Adobe Audition](https://www.adobe.com/products/audition.html) — Pro audio editor.
 - [Buzzsprout](https://www.buzzsprout.com) — Easy podcast hosting.
 - [Transistor](https://transistor.fm) — Podcast hosting + analytics.
