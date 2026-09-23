@@ -36,6 +36,7 @@ This repository is still the source of truth. If a resource is missing, outdated
 - 🏢 [**Operations**](operations.md) — Incorporation, banking, accounting, tax, payroll, hiring, ATS, HR, global hiring, benefits, legal, contracts, privacy / compliance, insurance, wikis, expenses
 
 ### Reference resources
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 Lists and reference data, not playbooks:
 
