@@ -74,18 +74,19 @@
 
 ## Indie and maker directories
 
-- [Indie Hackers](https://www.indiehackers.com) — Indie hacker community and product directory.
-- [TinyLaunch](https://www.tinylaunch.com) — Launch directory and syndication tool for indie makers.
-- [Tiny Startups](https://tinystartups.com) — Tiny startup newsletter and directory.
-- [Side Projectors](https://www.sideprojectors.com) — Side project marketplace.
 - [Acquire.com](https://acquire.com) — Marketplace for selling startups (formerly Microacquire).
-- [Maker Log](https://getmakerlog.com) — Indie maker community.
-- [WIP](https://wip.co) — Maker streak community.
-- [The Indie Dev List](https://indie.dev) — Indie dev startups directory.
-- [Tiny Tools](https://tools.fun) — Curated tiny products.
-- [Open Source Alternative](https://www.opensourcealternative.to) — Open-source alternatives to closed tools.
 - [Awesome Indie](https://awesomeindie.com) — Indie products directory.
+- [Indie Hackers](https://www.indiehackers.com) — Indie hacker community and product directory.
+- [Maker Log](https://getmakerlog.com) — Indie maker community.
 - [NoCode Devs](https://www.nocodedevs.com) — No-code-built tools and creators.
+- [Open Source Alternative](https://www.opensourcealternative.to) — Open-source alternatives to closed tools.
+- [Side Projectors](https://www.sideprojectors.com) — Side project marketplace.
+- [StarTap](https://startap.cc) — Product directory where makers submit websites and compete on daily and all-time clicker-game leaderboards.
+- [The Indie Dev List](https://indie.dev) — Indie dev startups directory.
+- [Tiny Startups](https://tinystartups.com) — Tiny startup newsletter and directory.
+- [Tiny Tools](https://tools.fun) — Curated tiny products.
+- [TinyLaunch](https://www.tinylaunch.com) — Launch directory and syndication tool for indie makers.
+- [WIP](https://wip.co) — Maker streak community.
 
 ## Submit-once-syndicate services
 
