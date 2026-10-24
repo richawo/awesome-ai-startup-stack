@@ -75,6 +75,7 @@
 ## Indie and maker directories
 
 - [Indie Hackers](https://www.indiehackers.com) — Indie hacker community and product directory.
+- [SaaSCity](https://saascity.io) — SaaS and startup directory where each listing appears as a building on an isometric city map.
 - [TinyLaunch](https://www.tinylaunch.com) — Launch directory and syndication tool for indie makers.
 - [Tiny Startups](https://tinystartups.com) — Tiny startup newsletter and directory.
 - [Side Projectors](https://www.sideprojectors.com) — Side project marketplace.
