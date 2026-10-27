@@ -34,6 +34,7 @@ This repository is still the source of truth. If a resource is missing, outdated
 - 🎬 [**Content Creation**](content-creation.md) — Video editing, AI video, screen recording, podcasts, audio, AI voice, music, writing, AI image, photo editing, thumbnails, captions, repurposing, stock
 - 💰 [**Fundraising**](fundraising.md) — Investor databases, pitch deck tools, cap tables, data rooms, financial modeling, SAFE / term sheets, accelerators, angel networks, grants, crowdfunding
 - 🏢 [**Operations**](operations.md) — Incorporation, banking, accounting, tax, payroll, hiring, ATS, HR, global hiring, benefits, legal, contracts, privacy / compliance, insurance, wikis, expenses
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 
 ### Reference resources
 
