@@ -43,6 +43,7 @@
 - [Tabnine](https://www.tabnine.com) — AI completion tool.
 - [Codeium](https://codeium.com) — Free Copilot alternative.
 - [Replit Agent](https://replit.com) — Cloud IDE + AI agent for full-stack apps.
+- [AppWizzy](https://appwizzy.com/) — AI web app builder with dedicated cloud development VMs, runtime templates, and Git-backed source editing.
 - [Bolt.new](https://bolt.new) — Browser-based AI app builder.
 - [Lovable](https://lovable.dev) — Browser-based full-stack AI builder.
 - [v0](https://v0.dev) — Vercel's AI UI generator.
