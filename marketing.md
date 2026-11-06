@@ -231,6 +231,7 @@
 - [Storemaven](https://www.storemaven.com) — ASO experimentation.
 - [data.ai](https://www.data.ai) — App market data (formerly App Annie).
 - [Appfigures](https://appfigures.com) — App store reporting.
+- [App Store Localizer](https://asolocalization.com) — App Store listing localization for indie iOS teams: translated metadata, localized screenshots, and keyword heuristics across 20+ locales.
 
 ## Heatmaps & Session Replay
 
