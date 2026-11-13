@@ -54,6 +54,8 @@
 - [AIToolboxx](https://www.aitoolboxx.com) — AI tool directory.
 - [SaaSWorthy AI](https://www.saasworthy.com) — SaaSWorthy's AI tools section.
 - [GPTE](https://gpte.ai) — AI tools list with use-case filtering.
+- [AITrustList](https://aitrustlist.com) — AI tools directory ranked by verified traffic and growth — 3,000+ tools across 200+ categories.
+- [AIHuntList](https://aihuntlist.com) — Navigation hub for 3,000+ AI apps across 200+ categories.
 
 ## SaaS and B2B review platforms
 
